@@ -1,0 +1,22 @@
+# This is a generated file; do not edit or check into version control.
+barcode_scan=/home/herles/.pub-cache/git/flutter_barcode_reader-545aa259bd67d9ce9a32f342bddd5a13a9079e4d/
+vibrate=/home/herles/.pub-cache/git/flutter_vibrate-8f9f1c20179ddf41003fcccf8a984fdeeaca1adc/
+share=/home/herles/.pub-cache/git/plugins-900165b300b16489bf2b5d4a55b30be7c799293f/packages/share/
+root_checker=/home/herles/.pub-cache/git/root_checker-43d86d620a5b113cd9e0f06e933e225437e779b8/
+uni_links=/home/herles/.pub-cache/git/uni_links-c3072f83690da166d0942c92283f6fdd08c59c26/
+device_info=/home/herles/.pub-cache/hosted/pub.dartlang.org/device_info-0.4.2+4/
+file_picker=/home/herles/.pub-cache/hosted/pub.dartlang.org/file_picker-1.13.2/
+firebase_messaging=/home/herles/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-6.0.16/
+flutter_plugin_android_lifecycle=/home/herles/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.8/
+flutter_secure_storage=/home/herles/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-3.3.3/
+flutter_webview_plugin=/home/herles/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.11/
+local_auth=/home/herles/.pub-cache/hosted/pub.dartlang.org/local_auth-0.6.2+3/
+package_info=/home/herles/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.1/
+path_provider=/home/herles/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.11/
+path_provider_linux=/home/herles/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2/
+path_provider_macos=/home/herles/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+3/
+shared_preferences=/home/herles/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.8/
+shared_preferences_linux=/home/herles/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-0.0.2+1/
+shared_preferences_macos=/home/herles/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+10/
+shared_preferences_web=/home/herles/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/
+sqflite=/home/herles/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.1/
